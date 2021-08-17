@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, Im Edgar 👋
+
+![Github](https://user-images.githubusercontent.com/69487958/129805905-168fd73e-1d25-42fe-ac49-e757a584c338.gif)
 
 <!--
 **EdgarAnt/EdgarAnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
