@@ -2,6 +2,8 @@
 
 ![Github](https://user-images.githubusercontent.com/69487958/129805905-168fd73e-1d25-42fe-ac49-e757a584c338.gif)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
