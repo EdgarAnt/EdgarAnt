@@ -16,7 +16,7 @@
   <a href="https://github.com/EdgarAnt">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EdgarAnt&show_icons=true&theme=tokyonight"/>
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdgarAnt&layout=compact&langs_count=16&theme=tokyonight"/>
-   
+    
   ![Snake animation](https://github.com/EdgarAnt/EdgarAnt/blob/output/github-contribution-grid-snake.svg)
     
 <div>
