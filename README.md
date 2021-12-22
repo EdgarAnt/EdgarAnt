@@ -4,14 +4,15 @@
 
 
  <img align="right" height="220em" align="right" src="https://user-images.githubusercontent.com/69487958/131787093-8fb23d0a-f70f-4c06-a4ab-fb310f38111a.gif"/>
-- 🔭 I’m currently studying computer science
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about   
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ 
+- 🔭 I’m currently studying computer science <br>
+- 🌱 I’m currently learning ... <br>
+- 👯 I’m looking to collaborate on ...<br>
+- 🤔 I’m looking for help with ...<br>
+- 💬 Ask me about   <br>
+- 📫 How to reach me: ...<br>
+- 😄 Pronouns: ...<br>
+- ⚡ Fun fact: ...<br>
 -->
 
 
