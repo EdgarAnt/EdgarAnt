@@ -3,9 +3,8 @@
 ![Github](https://user-images.githubusercontent.com/69487958/129805905-168fd73e-1d25-42fe-ac49-e757a584c338.gif)
 
 
-
+ <img align="right" height="220em" align="right" src="https://user-images.githubusercontent.com/69487958/131787093-8fb23d0a-f70f-4c06-a4ab-fb310f38111a.gif"/>
 - 🔭 I’m currently studying computer science
--   <img align="right" height="220em" align="right" src="https://user-images.githubusercontent.com/69487958/131787093-8fb23d0a-f70f-4c06-a4ab-fb310f38111a.gif"/>
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
