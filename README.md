@@ -5,15 +5,17 @@
 
  <img align="right" height="220em" align="right" src="https://user-images.githubusercontent.com/69487958/131787093-8fb23d0a-f70f-4c06-a4ab-fb310f38111a.gif"/>
  
-<center> 🔭 I’m currently studying computer science <br></center>
-<center> 🌱 I’m currently learning ... <br></center>
-- 👯 I’m looking to collaborate on ...<br>
+- 🔭 I’m currently studying computer science <br>
+- 🌱 I’m currently learning everything related to web development ... <br>
 - 🤔 I’m looking for help with ...<br>
-- 💬 Ask me about   <br>
-- 📫 How to reach me: ...<br>
-- 😄 Pronouns: ...<br>
-- ⚡ Fun fact: ...<br>
--->
+- ⚡ Fun fact: I love cats...<br>
+- --> <br>
+                
+
+                                                1|
+                                                2|     cout<<"Anything is possible"<<endl;
+                                                3|
+
 
 
 
