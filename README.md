@@ -10,9 +10,9 @@
  🌱 I’m currently learning everything related to web development. <br><br>
  🤔 I’m looking for help with.<br><br>
  ⚡ Fun fact: I love cats and the piano. <br><br><br>
- .
-  .:I recommend you to view my profile in dark mode:.<br>
- .
+ 
+  .::I recommend you to view my profile in dark mode::.<br>
+ 
 </div>          
 
                                                 1|
