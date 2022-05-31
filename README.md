@@ -5,12 +5,13 @@
 
  <img align="right" height="220em" align="right" src="https://user-images.githubusercontent.com/69487958/131787093-8fb23d0a-f70f-4c06-a4ab-fb310f38111a.gif"/>
  
-- 🔭 I’m currently studying computer science. <br>
-- 🌱 I’m currently learning everything related to web development. <br>
-- 🤔 I’m looking for help with.<br>
-- ⚡ Fun fact: I love cats and the piano. <br>
-- --> <br>
-                
+ <div align="center">
+ 🔭 I’m currently studying computer science. <br><br>
+ 🌱 I’m currently learning everything related to web development. <br><br>
+ 🤔 I’m looking for help with.<br><br>
+ ⚡ Fun fact: I love cats and the piano. <br><br><br>
+  <br>
+</div>          
 
                                                 1|
                                                 2|     cout<<"Anything is possible"<<endl;
