@@ -70,7 +70,7 @@
 
   <!-- Icono Instagram -->
   <a href="https://www.instagram.com/tony_tony_swg/">
-    <img src="C:\Users\Laptop\Desktop\Portafolio\myReadme\EdgarAnt\img\instagram.png" alt="Instagram" height="30">
+    <img src="https://github.com/EdgarAnt/EdgarAnt/assets/69487958/13c9dcbe-7a51-4e72-b5d8-62d9f9926af7" alt="Instagram" height="30">
     </a>
 </div> 
 
