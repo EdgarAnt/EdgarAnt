@@ -28,14 +28,6 @@
   <a href="https://github.com/EdgarAnt">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EdgarAnt&show_icons=true&theme=tokyonight"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdgarAnt&layout=compact&langs_count=16&theme=tokyonight"/>
-  <!-- My portfolio -->
-
-  <a href="https://edgarant.github.io/">
-    <img src="https://media.giphy.com/media/kxpZvoYJWxnuxvByQR/giphy.gif" alt="Portfolio" width="20%" height="20%" quality="20%">
-  </a>
-  <br>
-  <a href="https://edgarant.github.io/">
-  ~°my Portfolio°~
     
   ![Snake animation](https://github.com/EdgarAnt/EdgarAnt/blob/output/github-contribution-grid-snake.svg)
 </div>
@@ -51,7 +43,16 @@
 
 
 
+<!-- My portfolio -->
 
+<div align=center>
+  <a href="https://edgarant.github.io/">
+    <img src="https://media.giphy.com/media/kxpZvoYJWxnuxvByQR/giphy.gif" alt="Portfolio" width="20%" height="20%" quality="20%">
+  </a>
+  <br>
+  <a href="https://edgarant.github.io/">
+  ~°my Portfolio°~<br><br><br></br>
+</div>
 
 
 <!-- Icons -->
@@ -70,6 +71,6 @@
   <!-- Icono Instagram -->
   <a href="https://www.instagram.com/tony_tony_swg/">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30">
-  </a>
+    </a>
 </div> 
 
