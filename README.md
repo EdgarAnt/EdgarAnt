@@ -30,14 +30,12 @@
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdgarAnt&layout=compact&langs_count=16&theme=tokyonight"/>
   <!-- My portfolio -->
 
-<div align=center>
   <a href="https://edgarant.github.io/">
     <img src="https://media.giphy.com/media/kxpZvoYJWxnuxvByQR/giphy.gif" alt="Portfolio" width="20%" height="20%" quality="20%">
   </a>
   <br>
   <a href="https://edgarant.github.io/">
-  ~°my Portfolio°~<br><br><br></br>
-</div>
+  ~°my Portfolio°~
     
   ![Snake animation](https://github.com/EdgarAnt/EdgarAnt/blob/output/github-contribution-grid-snake.svg)
 </div>
