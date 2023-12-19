@@ -47,7 +47,7 @@
 
 <div align=center>
   <a href="https://edgarant.github.io/">
-    <img src="https://media.giphy.com/media/kxpZvoYJWxnuxvByQR/giphy.gif" alt="Portfolio" width="15%" height="15%" quality="15%">
+    <img src="https://media.giphy.com/media/kxpZvoYJWxnuxvByQR/giphy.gif" alt="Portfolio" width="20%" height="20%" quality="20%">
   </a>
   <br>
   <a href="https://edgarant.github.io/">
