@@ -70,7 +70,7 @@
 
   <!-- Icono Instagram -->
   <a href="https://www.instagram.com/tony_tony_swg/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30">
+    <img src="C:\Users\Laptop\Desktop\Portafolio\myReadme\EdgarAnt\img\instagram.png" alt="Instagram" height="30">
     </a>
 </div> 
 
