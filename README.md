@@ -16,9 +16,9 @@
   .::I recommend you to view my profile in dark mode::.<br>
  
 <!-- Inspiration -->
-                                                1|
+                              1|
                                                 2|     cout<<"Anything is possible"<<endl;
-                                                3|
+                              3|
 
 </div>          
 
