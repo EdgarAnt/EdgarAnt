@@ -59,23 +59,18 @@
 
 <div align=Right>
   <!-- Icono CodePen -->
-  <div style="display: inline-block; text-align: left;">
     <a href="https://codepen.io/EdgarAnt">
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="Codepen" height="30">
     </a>
-  </div>
   
   <!-- Icono Linkedin -->
-  <div style="display: inline-block;">
-    <a href="https://www.linkedin.com/in/edgarant/">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linkedin" height="30">
-    </a>
-  </div>
+  <a href="https://www.linkedin.com/in/edgarant/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linkedin" height="30">
+   </a>
 
   <!-- Icono Instagram -->
-  <div style="display: inline-block; text-align: right;">
-    <a href="https://www.instagram.com/tony_tony_swg/">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30">
-    </a>
+  <a href="https://www.instagram.com/tony_tony_swg/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30">
+  </a>
 </div> 
 
