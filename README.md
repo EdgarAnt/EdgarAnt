@@ -60,12 +60,12 @@
 <div align=Right>
   <!-- Icono CodePen -->
     <a href="https://codepen.io/EdgarAnt">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="Codepen" height="30">
+      <img src="./img/codepen.png" alt="Codepen" height="30">
     </a>
   
   <!-- Icono Linkedin -->
   <a href="https://www.linkedin.com/in/edgarant/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linkedin" height="30">
+    <img src="./img/Linkedin.png" alt="Linkedin" height="30">
    </a>
 
   <!-- Icono Instagram -->
