@@ -57,7 +57,7 @@
 
 <!-- Icons -->
 
-<div style="text-align: right;">
+<div align=Right>
   <!-- Icono CodePen -->
   <div style="display: inline-block; text-align: left;">
     <a href="https://codepen.io/EdgarAnt">
@@ -77,6 +77,5 @@
     <a href="https://www.instagram.com/tony_tony_swg/">
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30">
     </a>
-  </div>
 </div> 
 
