@@ -14,13 +14,13 @@
  ⚡ Fun fact: I love cats and the piano. <br><br><br>
  
   .::I recommend you to view my profile in dark mode::.<br>
- 
+</div>          
+
 <!-- Inspiration -->
                               1|
-                                                2|     cout<<"Anything is possible"<<endl;
+                              2|     cout<<"Anything is possible"<<endl;
                               3|
 
-</div>          
 
 
 <!-- Snake Game -->
