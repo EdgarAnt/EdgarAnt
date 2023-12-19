@@ -17,9 +17,9 @@
 </div>          
 
 <!-- Inspiration -->
-                                  1|
-                                  2|     cout<<"Anything is possible"<<endl;
-                                  3|
+                                      1|
+                                      2|     cout<<"Anything is possible"<<endl;
+                                      3|
 
 
 
