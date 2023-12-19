@@ -29,7 +29,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EdgarAnt&show_icons=true&theme=tokyonight"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdgarAnt&layout=compact&langs_count=16&theme=tokyonight"/>
     
-  ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+  ![Snake animation](https://github.com/EdgarAnt/EdgarAnt/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 <div>
