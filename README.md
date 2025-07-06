@@ -58,7 +58,7 @@
     <img src="https://media.giphy.com/media/kxpZvoYJWxnuxvByQR/giphy.gif" alt="Portfolio" width="20%" height="20%" quality="20%">
   </a>
   <br>
-  <a href="https://edgarant.github.io/">
+  <a href="https://edgarant.fly.dev">
   ~°my Portfolio°~<br><br><br></br>
 </div>
 
