@@ -65,20 +65,7 @@
 
 <!-- Icons -->
 
-<div align=Right>
-  <!-- Icono CodePen -->
-    <a href="https://codepen.io/EdgarAnt">
-      <img src="./img/codepen.png" alt="Codepen" height="30">
-    </a>
-  
-  <!-- Icono Linkedin -->
-  <a href="https://www.linkedin.com/in/edgarant/">
-    <img src="./img/Linkedin.png" alt="Linkedin" height="30">
-   </a>
 
-  <!-- Icono Instagram -->
-  <a href="https://www.instagram.com/tony_tony_swg/">
-    <img src="./img/instagram.png" alt="Instagram" height="30">
-    </a>
+
 </div> 
 
